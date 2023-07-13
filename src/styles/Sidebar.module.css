@@ -1,0 +1,25 @@
+.scrSideBarBg {
+    background-color: #222222;
+    height: 100vh;
+}
+.scrtabsBtnList {
+    background-color: #000000;
+    padding: 48px 0px;
+    text-align: center;
+    height: 100vh;
+}
+
+.editRightHeader {
+    border-bottom: 2px solid #434343;
+    padding: 14px 2px 16px;
+    margin: 0px 22px 0px 8px;
+}
+.editRightHeader strong {
+    font-weight: 600;
+}
+.editRightBottom {
+    margin: 0px 10px;
+}
+.editTrimTabTxt p {
+     font-size: 14px;
+}
